@@ -20,6 +20,8 @@ hospitals and thus enable them to provide optimal health outcomes.
 
 ## What ZEVAC can do?
 
+![Overview](../static/img/overview.png)
+
 Zevac is a ML based AMS workflow efficiency software that enables the AMS team + ID physician to provide omnipresent support to your clinicians. Some of its functionality along with benefits are - 
 Typically data is in silos within a hospital IT systems. Zevac breaks down these siloes to provide always updated Cumulative antibiogram (stratified to the level of the ward) within the hospital with intelligent alerting mechanism of –Bug Outbreaks, Drug-bug sensitivity ; Benefits – Uniform and Most update view of the bug and drug interactions for clinicians and AMS team
 Augmented Individualized Antibiogram support system – Augments the clinicians antibiotics prescription capability through Machine learning based drug-bug sensitivity suggestions at the point of care at Zero Hour; Benefits – improved infection outcomes and judicious use of antibiotics
