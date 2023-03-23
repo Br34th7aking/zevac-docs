@@ -1,4 +1,4 @@
-# AI Algorithm FAQ
+# AI Algorithm
 
 ### How does an AI algorithm trained on other databases become applicable to my hospital?
 Our base algorithm has been trained over 400,000 data points. Every time we implement the system in a new clinical setup the model is retrained with the local data, thus making the output relevant only to the local setup.

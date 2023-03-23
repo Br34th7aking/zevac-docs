@@ -1,4 +1,4 @@
-# AMS Protocol FAQ
+# AMS Protocol
 ### What all AMS practices are enabled in your system?
 Currently the system enables the following initiatives
 - Compliance to infection treatment guidelines

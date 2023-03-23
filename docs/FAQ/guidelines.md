@@ -2,7 +2,7 @@
 sidebar_position: 6
 ---
 
-# Guidelines FAQ
+# Guidelines
 
 Common questions related to the guidelines in ZEVAC.
 

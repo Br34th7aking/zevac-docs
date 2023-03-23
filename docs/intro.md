@@ -2,46 +2,47 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction to ZEVAC
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome! Let's discover ZEVAC and what it can do to help improve antimicrobial usage in your hospital. ZEVAC is a next generation antimicrobial stewardship software that aims to become an end to end solution to optimize antimicrobial usage in
+hospitals and thus enable them to provide optimal health outcomes.
 
-## Getting Started
 
-Get started by **creating a new site**.
+## Why do you need an AMS software?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- In the USA one out of every two patients in a hospital is administered antibiotics and one-third of the antibiotics are inappropriate. In India we don't even have documented data for inappropriate antibiotics.
+- India is the epicentre of Superbugs – Multidrug Resistant Bacteria
+- UN has declared Antimicrobial (Antibiotic) Resistance as a Global Health Crisis
+- HAI is one of top 3 adverse events within Hospitals
+- CDC targets 100% Antimicrobial Stewardship Program (ASP) by Healthcare Providers
+- JCI has made an ASP mandatory for certification to Healthcare Providers
+
+
+## What ZEVAC can do?
+
+Zevac is a ML based AMS workflow efficiency software that enables the AMS team + ID physician to provide omnipresent support to your clinicians. Some of its functionality along with benefits are - 
+Typically data is in silos within a hospital IT systems. Zevac breaks down these siloes to provide always updated Cumulative antibiogram (stratified to the level of the ward) within the hospital with intelligent alerting mechanism of –Bug Outbreaks, Drug-bug sensitivity ; Benefits – Uniform and Most update view of the bug and drug interactions for clinicians and AMS team
+Augmented Individualized Antibiogram support system – Augments the clinicians antibiotics prescription capability through Machine learning based drug-bug sensitivity suggestions at the point of care at Zero Hour; Benefits – improved infection outcomes and judicious use of antibiotics
+Define and disseminate always updated guideline – Antibiotics prescription guidelines invariably lag the on-ground reality of drug-bug sensitivities; Zevac changes the paradigm from reactive to near-real time proactive interventions
+Monitoring – For AMS team to get a real-time view of drug usage at a case level is a herculean task and when they do get it sifting through the maze of data is a frustrating; Zevac automates the job of aggregating the data to present a single view while flagging inappropriate/ possible indiscretions
+Reporting – Automated calculation of DDD/ DOT /AU/ AR to improve compliance.
+
+
+
+## What ZEVAC can not do? (yet)
+Solution doesn’t provide the following
+Zevac is based on ML models that discern patterns in data – it is not a replacement of lab-generated Culture and Sensitivity report
+Zevac doesn’t prescribe antibiotics it provides suggestions at an individualized level to the clinicians to augment empiric therapy. 
+Zevac empowers ID physicans/AMS teams by eliminating redundant effort. The software needs their intelligence to optimize performance of the facility; doesn’t replace them
+
 
 ### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+- A desktop computer or laptop running Windows 7 or above / Mac OS-X 10.0.0 or higher / Linux OS
+- A modern browser. We recommend the latest version of **Google Chrome** for the best experience. 
 
-## Generate a new site
+:::caution
 
-Generate a new Docusaurus site using the **classic template**.
+ZEVAC is not compatible with Internet Explorer. If you choose to still use it, the application will still work. However, some features may not behave as expected.
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+:::
