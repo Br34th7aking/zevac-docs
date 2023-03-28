@@ -9,7 +9,7 @@ hospitals and thus enable them to provide optimal health outcomes.
 
 
 ## Why do you need an AMS software?
-
+WHO lists AMR (Antimicrobial Resistance) among the top 10 global health issues.
 - In the USA one out of every two patients in a hospital is administered antibiotics and one-third of the antibiotics are inappropriate. In India we don't even have documented data for inappropriate antibiotics.
 - India is the epicentre of Superbugs – Multidrug Resistant Bacteria
 - UN has declared Antimicrobial (Antibiotic) Resistance as a Global Health Crisis
@@ -20,6 +20,11 @@ hospitals and thus enable them to provide optimal health outcomes.
 
 ## What ZEVAC can do?
 
+Complete solution for an ASP workflow.
+1. Analize: Review prescription practices, recommend alternates
+2. Educate: Apprise clinicians regarding alternate therapy and changing susceptibility patterns
+3. Policy Creation: Review Hospital-wise culture reports to generate cumulative antibiograms & guidelines
+4. Report: Periodic Regulatory Reporting detailed internal policy formulation 
 ![Overview](../static/img/overview.png)
 
 Zevac is a ML based AMS workflow efficiency software that enables the AMS team + ID physician to provide omnipresent support to your clinicians. Some of its functionality along with benefits are - 
