@@ -7,6 +7,15 @@ sidebar_position: 1
 Welcome! Let's discover ZEVAC and what it can do to help improve antimicrobial usage in your hospital. ZEVAC is a next generation antimicrobial stewardship software that aims to become an end to end solution to optimize antimicrobial usage in
 hospitals and thus enable them to provide optimal health outcomes.
 
+ provides for real time data to flow through the system and generate a stratified hospital-wide antibiogram, at the click of a button
++ provide for a fully automated guideline creation and tracking mechanism
++ provides flexibility of default WHO guidelines, which are further adapted based on individual hospital AMS leadership preferences 
++ provides actionable real time patient specific data to augment clinical decision making before culture reports become available 
++ supplements empiric prescribing / physician intuition, with AI models built and validated using 400,000+ culture reports. The model continuously adapts based on machine learning algorithms to hospital/ward specific data, and will modify suggestions as drug/bug susceptibility patterns change
++ links to existing EMR system with prior patient data sets, department/ward, diagnosis codes, LMIS, pharmacy using ready APIs for connecting with EPIC and other major EMRs (require only modest support from IT leadership)
++ extensive reporting and audit procedures, providing ease of dissemination
++ clinician friendly, designed to fit into existing workflow without multiple additional input required, to allow seamless clinician adoption
+
 
 ## Why do you need an AMS software?
 WHO lists AMR (Antimicrobial Resistance) among the top 10 global health issues.
